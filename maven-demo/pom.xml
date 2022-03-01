@@ -23,5 +23,11 @@
       <scope>import</scope>
       <type>pom</type>
     </dependency>
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>4.0.0</version>
+</dependency>
+	  
   </dependencies>
 </project>
